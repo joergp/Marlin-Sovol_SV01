@@ -33,8 +33,6 @@ To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino
 | Sovol SV01 | SilentBoard with BLTouch  | SilentBoard_BLTouch | SBBT |
 | Sovol SV01 | SKR V1.4 (Turbo) Board with BLTouch and TMC2209 Drivers  | SKR1_4_BLTouch | BT |
 
- SKR V1.4Turbo TMC2209
-
 ## Submitting Changes
 
 - Follow the [Coding Standards](http://marlinfw.org/docs/development/coding_standards.html) to gain points with the maintainers.
