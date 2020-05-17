@@ -65,6 +65,10 @@ The current Marlin dev team consists of:
 Modification for Sovol SV01:
 
  - CopterTec [[@CopterTec](https://github.com/CopterTec)] - Germany
+ 
+Modification for Sovol SV01 with SKR V1.4:
+
+ - Jörg Pressel [[@joergp](https://github.com/joergp)] - Germany
 
 ## License
 
